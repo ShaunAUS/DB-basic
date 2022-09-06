@@ -4,4 +4,4 @@
 
 - JDBC / ConnectionPool / DataSource / DriverManager /Transaction / DB lock / DB Exception
 
-내용정리는 기술 블로그 https://velog.io/@wnsqud70?tag=Database 에 포스팅 하였습니다
+- 내용정리는 기술 블로그 https://velog.io/@wnsqud70?tag=Database 에 포스팅 하였습니다
